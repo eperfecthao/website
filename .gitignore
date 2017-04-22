@@ -1,3 +1,5 @@
 .DS_Store
 *〜
 tmp /
+[core]
+  editor = "atom --wait"
